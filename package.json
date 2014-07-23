@@ -1,0 +1,22 @@
+{
+  "name" : "otto-server",
+  "version" : "0.0.1",
+  "repository" : "https://github.com/ottojs/otto-server.git",
+  "main" : "./lib/index.js",
+  "dependencies" : {},
+  "devDependencies" : {
+    "jshint"    : "2.5.2",
+    "mocha"     : "1.20.1",
+    "should"    : "4.0.4",
+    "supertest" : "0.13.0",
+    "istanbul"  : "0.3.0"
+  },
+  "scripts" : {
+    "start" : "make start",
+    "test"  : "make test"
+  },
+  "engines" : {
+    "node" : "0.10.x",
+    "npm"  : "1.4.x"
+  }
+}
