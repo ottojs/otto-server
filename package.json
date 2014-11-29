@@ -12,8 +12,7 @@
     "istanbul"  : "0.3.0"
   },
   "scripts" : {
-    "start" : "make start",
-    "test"  : "make test"
+    "test" : "make test"
   },
   "engines" : {
     "node" : "0.10.x"
