@@ -5,7 +5,7 @@
   "main" : "./lib/index.js",
   "dependencies" : {},
   "devDependencies" : {
-    "jshint"   : "2.5.2",
+    "jshint"   : "2.5.10",
     "mocha"    : "1.20.1",
     "should"   : "4.0.4",
     "istanbul" : "0.3.0"
